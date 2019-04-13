@@ -1,0 +1,1 @@
+Sticky footer. Positioned with absolute position.
